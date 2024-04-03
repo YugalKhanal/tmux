@@ -1,1 +1,1 @@
-# My tmux config
+My tmux config
